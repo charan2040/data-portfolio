@@ -130,7 +130,7 @@ export default function Portfolio() {
       title: "Full Stack Developer Intern",
       company: "Hypweb Solutions LLP",
       location: "Remote",
-      period: "May 2024 – Present",
+      period: "Jan 2025 – Present",
       responsibilities: [
         "Developing and maintaining full stack applications using Java, Kotlin, and Android Studio",
         "Collaborating with cross-functional teams to design scalable software solutions",
